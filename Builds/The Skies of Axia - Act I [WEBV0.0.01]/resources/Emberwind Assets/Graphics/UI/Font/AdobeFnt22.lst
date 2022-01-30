@@ -1,0 +1,178 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Archer-Bold
+FamilyName:Archer
+StyleName:Bold
+FullName:Archer Bold
+MenuName:Archer Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\Archer-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198444
+FileModTime:1201896884
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Archer Bold
+NameArray:0,Win,1,Archer Bold
+NameArray:0,Win,16,Archer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Kungfont-Regular
+FamilyName:Kungfont
+StyleName:Regular
+FullName:Kungfont
+MenuName:Kungfont
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\Kungfont-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:400860
+FileModTime:1510017332
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kungfont
+NameArray:0,Win,1,Kungfont
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1511288346
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+FullName:Proxima Nova Bold
+MenuName:Proxima Nova Rg
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\Proxima Nova Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96640
+FileModTime:1335940502
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Bold
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-BoldIt
+FamilyName:Proxima Nova
+StyleName:Bold Italic
+FullName:Proxima Nova Bold It
+MenuName:Proxima Nova
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\ProximaNova-BoldIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157184
+FileModTime:1508946752
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Bold It
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova Regular
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\ProximaNova-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94668
+FileModTime:1392753826
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Regular
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-RegularIt
+FamilyName:Proxima Nova
+StyleName:Italic
+FullName:Proxima Nova It
+MenuName:Proxima Nova
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Documents\NomnivoreGames\MainProjects\Skies_of_Axia\master_production_files\TSOA Support Pkg\Document fonts\ProximaNova-RegularIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157184
+FileModTime:1508946752
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova It
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
