@@ -1,10 +1,11 @@
 GS.dataCache['F395DE37860336477B4A73A82730DCE724DC'] = {
     "uid": "F395DE37860336477B4A73A82730DCE724DC",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
-        "type": "vn.chapter",
         "name": "Act I",
+        "type": "vn.chapter",
+        "order": 7,
         "commands": [
             {
                 "id": "vn.Chapter",
@@ -14,8 +15,7 @@ GS.dataCache['F395DE37860336477B4A73A82730DCE724DC'] = {
                 },
                 "indent": 0
             }
-        ],
-        "order": 4
+        ]
     },
     "summary": [
         "name",

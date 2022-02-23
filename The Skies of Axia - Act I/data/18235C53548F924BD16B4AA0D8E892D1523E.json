@@ -147,7 +147,7 @@
                 "params": {
                     "target": 0,
                     "targetVariable": {
-                        "name": "WeaponOil",
+                        "name": "Shop WeaponOil",
                         "index": 4,
                         "scope": 0,
                         "domain": "com.degica.vnm.default"
@@ -1381,13 +1381,7 @@
                         "domain": "com.degica.vnm.default"
                     },
                     "operation": 5,
-                    "value": {
-                        "name": "FastTalk",
-                        "index": 55,
-                        "scope": 1,
-                        "changed": true,
-                        "domain": "com.degica.vnm.default"
-                    },
+                    "value": 0,
                     "label": "WhereEliseSucceed",
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
@@ -3241,6 +3235,54 @@
                         "name": "$live_preview_snapshot"
                     }
                 },
+                "uid": "506437723BF83146384BB4585DFE1801073E",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "Weapon Oil",
+                        "index": 60,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 1,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
                 "uid": "DE7B82387AAC5140362A9E43E094588BB1AD",
                 "indent": 0
             },
@@ -3361,6 +3403,54 @@
                 "params": {
                     "target": 0,
                     "targetVariable": {
+                        "name": "Spirit Salts",
+                        "index": 61,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 1,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "2917450F426F944634597AB324D10D05561D",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
                         "name": "Gold",
                         "index": 6,
                         "scope": 1,
@@ -3472,6 +3562,54 @@
                 "params": {
                     "target": 0,
                     "targetVariable": {
+                        "name": "Minor Healing Salve",
+                        "index": 62,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 1,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "805E5FD51D6E374336691FE287A9F9D3CC68",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
                         "name": "Gold",
                         "index": 6,
                         "scope": 1,
@@ -3576,6 +3714,54 @@
                     }
                 },
                 "uid": "E3F1E05F6DA8884D1E09D44269528EE5DBEB",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "Rotgut Ale",
+                        "index": 63,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 1,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "4DA5028A15268542338AC6B824589F4B286E",
                 "indent": 0
             },
             {
@@ -3828,25 +4014,25 @@
                 "scope": 1
             },
             {
-                "name": "WeaponOil",
+                "name": "Shop WeaponOil",
                 "index": 4,
                 "scope": 0,
                 "domain": "com.degica.vnm.default"
             },
             {
-                "name": "SpiritSalts",
+                "name": "Shop SpiritSalts",
                 "index": 5,
                 "scope": 0,
                 "domain": "com.degica.vnm.default"
             },
             {
-                "name": "MinorHealingSalve",
+                "name": "Shop MinorHealingSalve",
                 "index": 6,
                 "scope": 0,
                 "domain": "com.degica.vnm.default"
             },
             {
-                "name": "RotgutAle",
+                "name": "Shop RotgutAle",
                 "index": 7,
                 "scope": 0,
                 "domain": "com.degica.vnm.default"

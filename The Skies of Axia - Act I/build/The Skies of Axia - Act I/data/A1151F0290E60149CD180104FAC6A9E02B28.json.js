@@ -4498,7 +4498,7 @@ GS.dataCache['A1151F0290E60149CD180104FAC6A9E02B28'] = {
                     },
                     "message": {
                         "lcId": null,
-                        "defaultText": "The experiment went terribly wrong. The lucky ones died in the explosion, but the rest were sickened and changed, becoming unrecognizable versions of their former selves. Laureat was the only true survivor, staggering back to Adriel while \n esperately clutching a single shard."
+                        "defaultText": "The experiment went terribly wrong. The lucky ones died in the explosion, but the rest were sickened and changed, becoming unrecognizable versions of their former selves. Laureat was the only true survivor, staggering back to Adriel while esperately clutching a single shard."
                     },
                     "position": 0,
                     "characterId": "2E81C6E217AF154B253AD80829128BCFF0B8",
@@ -11228,7 +11228,7 @@ GS.dataCache['A1151F0290E60149CD180104FAC6A9E02B28'] = {
                             "alpha": 160
                         },
                         "size": {
-                            "width": 300,
+                            "width": 400,
                             "height": 50
                         }
                     },
@@ -11266,7 +11266,7 @@ GS.dataCache['A1151F0290E60149CD180104FAC6A9E02B28'] = {
                     "enabled": 1,
                     "positionType": 1,
                     "box": {
-                        "x": 700,
+                        "x": 650,
                         "y": 400,
                         "angle": 0,
                         "zoom": 1,
@@ -11278,7 +11278,7 @@ GS.dataCache['A1151F0290E60149CD180104FAC6A9E02B28'] = {
                             "alpha": 160
                         },
                         "size": {
-                            "width": 300,
+                            "width": 450,
                             "height": 50
                         }
                     },

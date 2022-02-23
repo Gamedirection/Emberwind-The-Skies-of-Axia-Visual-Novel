@@ -10,7 +10,8 @@
                 "name": "",
                 "scope": 1,
                 "index": 0,
-                "changed": true
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "My Other Var X",
@@ -380,49 +381,66 @@
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Weapon Oil",
                 "index": 60,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Spirit Salts",
                 "index": 61,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Minor Healing Salve",
                 "index": 62,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Rotgut Ale",
                 "index": 63,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Shot of Liquid Courage",
                 "index": 64,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Gelspar Crystal Shard",
                 "index": 65,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Serrated Dagger",
                 "index": 66,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "Potion of Heroism",
                 "index": 67,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
                 "index": 68,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "",
@@ -475,9 +493,11 @@
                 "scope": 1
             },
             {
-                "name": "",
+                "name": "Inventory Toggle",
                 "index": 79,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
@@ -712,25 +732,26 @@
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Weapon Oil",
                 "index": 21,
                 "scope": 1,
-                "changed": true
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "Spirit Salts",
                 "index": 22,
                 "scope": 1,
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Minor Healing Salve",
                 "index": 23,
                 "scope": 1,
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Rotgut Ale",
                 "index": 24,
                 "scope": 1,
                 "changed": true
@@ -739,7 +760,8 @@
                 "name": "",
                 "index": 25,
                 "scope": 1,
-                "changed": true
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "",
@@ -1193,9 +1215,11 @@
                 "index": 0
             },
             {
-                "name": "",
+                "name": "InventoryToggle",
                 "index": 1,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
@@ -1301,7 +1325,8 @@
             {
                 "name": "Other List",
                 "index": 1,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "Stats",
@@ -1310,9 +1335,10 @@
                 "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "Inventory",
                 "index": 3,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "",

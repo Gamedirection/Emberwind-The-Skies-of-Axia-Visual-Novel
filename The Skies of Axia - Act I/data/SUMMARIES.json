@@ -300,7 +300,7 @@
         },
         "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54": {
             "items": {
-                "name": "Unnamed",
+                "name": "Call Inventory",
                 "type": "data_record",
                 "order": 1
             }
@@ -3202,7 +3202,7 @@
             "items": {
                 "name": "Prologue",
                 "type": "vn.chapter",
-                "order": 5
+                "order": 6
             }
         },
         "10FBB12376D4D149CC784FA46C0B45A798E4": {
@@ -3218,7 +3218,7 @@
             "items": {
                 "name": "Act I",
                 "type": "vn.chapter",
-                "order": 6
+                "order": 7
             }
         },
         "A1151F0290E60149CD180104FAC6A9E02B28": {
@@ -3503,6 +3503,40 @@
                 "name": "Bloodhound - 2",
                 "type": "data_record",
                 "order": 2
+            }
+        },
+        "0016381C8FD19043EE7AB7586BAB04C6137A": {
+            "items": {
+                "name": "UI and Variables",
+                "type": "vn.chapter",
+                "order": 8
+            }
+        },
+        "1DE5305D9F47774FDB2874E2E414F3533C2F": {
+            "items": {
+                "name": "LoadVariables",
+                "type": "vn.scene",
+                "parentId": "0016381C8FD19043EE7AB7586BAB04C6137A",
+                "chapterUid": "0016381C8FD19043EE7AB7586BAB04C6137A",
+                "order": 0
+            }
+        },
+        "57F7E3B32AC91147F31BAFD67B4BCEEAD3E2": {
+            "items": {
+                "name": "Inventory",
+                "type": "vn.scene",
+                "parentId": "0016381C8FD19043EE7AB7586BAB04C6137A",
+                "chapterUid": "0016381C8FD19043EE7AB7586BAB04C6137A",
+                "order": 1
+            }
+        },
+        "591A74875AC84148BA2BD4B9FBF4675B54A0": {
+            "items": {
+                "name": "TestInventoryCall",
+                "type": "vn.scene",
+                "parentId": "57F7E3B32AC91147F31BAFD67B4BCEEAD3E2",
+                "chapterUid": "0016381C8FD19043EE7AB7586BAB04C6137A",
+                "order": 0
             }
         }
     }

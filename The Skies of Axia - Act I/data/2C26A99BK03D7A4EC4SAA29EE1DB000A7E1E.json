@@ -62,7 +62,7 @@
             "battleView": 0,
             "titleMusic": {
                 "folderPath": "Emberwind Assets/Audio/Music",
-                "name": "Ember 4 - Caravan.ogg",
+                "name": "EMBERWIND_Trailer.mp3",
                 "volume": 100,
                 "playbackRate": 100
             },
@@ -388,7 +388,13 @@
                 }
             ],
             "gameUid": "CA9AEC558EAE654C1A482495AEFDC7EF61F9",
-            "saveSlotCount": 100
+            "saveSlotCount": 100,
+            "introInfo": {
+                "scene": {
+                    "uid": "83E1A6488356D74D733BFB61BD0C325199DB",
+                    "name": "Epigraph"
+                }
+            }
         },
         "id": "2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E",
         "parentId": "ROOT",
